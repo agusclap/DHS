@@ -1,0 +1,12 @@
+Ingrese un nombre:
+Ingrese un nombre:
+Ingrese un nombre:
+Ingrese un nombre:
+Ingrese un nombre:
+
+
+Hola Ana!
+Hola Lucia!
+Hola Maria!
+Hola Roberto!
+Hola Juan!

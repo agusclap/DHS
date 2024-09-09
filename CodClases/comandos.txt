@@ -1,0 +1,2 @@
+python3 inout.py < nombres.txt > salida.txt
+python3 inout.py < nombres.txt | grep Hola
